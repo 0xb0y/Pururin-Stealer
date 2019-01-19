@@ -43,7 +43,7 @@
 	}
 	}
 	
-	
+
 ?>
   <center><font face="Ubuntu" size="5" color="white"><b>pUrurin Grabber by Sc0<b/></font></center>
 <center>

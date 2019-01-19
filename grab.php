@@ -31,14 +31,14 @@
 </style>
 
 <?php
-	include('api.php'); //Parser to get element in your link
+	include('api.php'); 
 	if(isset($_POST['submit'])){	
 		$url=file_get_html($_POST['url']); 
 	$image = $url->find("img"); 
 	foreach($image as $img) 
 	{
 		$s=$img->src; 
-		$img_name = 'result/'.basename($s); //change it
+		$img_name = 'result/'.basename($s); ///custom name and folder
 		file_put_contents($img_name, file_get_contents($s)); 
 	}
 	}

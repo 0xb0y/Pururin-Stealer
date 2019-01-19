@@ -48,14 +48,13 @@
 <p>
 <center>
 <?php
-for ($i= 1; $i <= 24; $i++) ///IMPORTANT ,check the folder, see how many pictures there are,  change the variable [24] to max numb in pururin.io gallery
+for ($i= 1; $i <= 24; $i++) ///IMPORTANT ,check the gallery, see how many pictures there are,  change the variable [24] to max numb in pururin.io gallery
 {
 echo" <img width='220' height='350' src=";
-/**geturl**/ echo "https://api.pururin.io/images";
-echo "/38027/"; ///put code here 
-echo $i; echo".jpg"; ///check nh folder first, if png format just change it
+/**geturl**/ echo "https://api.pururin.io/images"; ///pururin gallery images
+echo "/38027/"; ///put code gallery here, NOT DOUJIN CODE 
+echo $i; echo".jpg"; ///check pururin galleries first, if png format just change it
 echo ">";
-echo "";
 }
 
 

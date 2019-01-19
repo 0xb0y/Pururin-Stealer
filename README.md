@@ -20,6 +20,12 @@ pUrurin mass Grabber
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-zNCQWk-jZeI/XENt_Ek2AAI/AAAAAAAABO0/7qa5ty09XScOv5ueRhvZFrwCsEEaOcawgCLcBGAs/s1600/Screenshot_4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="840" data-original-width="1600" height="168" src="https://1.bp.blogspot.com/-zNCQWk-jZeI/XENt_Ek2AAI/AAAAAAAABO0/7qa5ty09XScOv5ueRhvZFrwCsEEaOcawgCLcBGAs/s320/Screenshot_4.jpg" width="320" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+after complete just compress and download (if using cPanel)</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: left;">
 -after creating mirror go direct in grabber</div>
